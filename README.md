@@ -56,7 +56,7 @@ The objective of this project is to analyze loan application data to uncover bor
 
 ### 📜 Theory part :-
 
-<img width="800" height="420" alt="ezgif-1fde48dcdd9f9d09" src="https://github.com/user-attachments/assets/f0cdb0c5-0254-4d0c-965a-c7d71ae3722a" />
+<img width="800" height="420" alt="ezgif-63e6d235d0e76911" src="https://github.com/user-attachments/assets/31707e8c-dedf-48b1-8d16-1142e07acc0f" />
 
 ### 📝 Jupyter notebook :- 
 
