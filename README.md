@@ -42,7 +42,7 @@ The objective of this project is to analyze loan application data to uncover bor
 
 # 🎬 Project Demo
 
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1__WPrCETYab-M1IWBLWkbHsIcmElHnY4/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1D9jXD6q11PqcVDxdzS4d79SW4jJzRkR4/view?usp=sharing)
 
 📹 Click the badge above to watch the complete project demonstration.
 
