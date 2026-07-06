@@ -50,7 +50,7 @@ The objective of this project is to analyze loan application data to uncover bor
 
 ### 🖼️ Image :- 
 
-<img width="960" height="540" alt="Screenshot 2026-07-05 190738" src="https://github.com/user-attachments/assets/3d9e654c-45f4-4ead-9964-af948d8fbda7" />
+<img width="1672" height="941" alt="2374b2d0-74b6-419c-be26-123d94589ba5" src="https://github.com/user-attachments/assets/9dab08b4-342b-4e19-be08-58143fb4a207" />
 
 ---
 
