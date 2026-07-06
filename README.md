@@ -241,7 +241,7 @@ print("Conditional Probability =", conditional_probability)
 
 #### (a) Plot a histogram of Credit_Score with a Gaussian curve.
 
-<img width="717" height="470" alt="Histogarm of credit score" src="https://github.com/user-attachments/assets/da52cb07-221c-4471-989d-179ac1b3ede4" />
+<img width="400" height="350" alt="Histogarm of credit score" src="https://github.com/user-attachments/assets/da52cb07-221c-4471-989d-179ac1b3ede4" />
 
 ```python
 plt.figure(figsize=(8,5))
