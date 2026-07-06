@@ -1,0 +1,1 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,10:0F172A,25:1E293B,40:2563EB,55:06B6D4,70:22D3EE,85:A855F7,100:EC4899&height=240&section=header&text=Loan%20Application&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20loan%20data%20into%20risk%20insights&descAlignY=60&descSize=20"/>
