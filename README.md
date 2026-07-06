@@ -60,7 +60,8 @@ The objective of this project is to analyze loan application data to uncover bor
 
 ### 📝 Jupyter notebook :- 
 
-<img width="800" height="420" alt="ezgif-8b1e22c8f04559de" src="https://github.com/user-attachments/assets/0010f732-1c7b-4f26-8886-c6a0e196080c" />
+<img width="800" height="420" alt="ezgif-1c0b5e57ac479684" src="https://github.com/user-attachments/assets/3b0e7593-6f2f-4c04-870a-cac933dd8089" />
+
 
 ---
 
