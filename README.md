@@ -241,6 +241,8 @@ print("Conditional Probability =", conditional_probability)
 
 #### (a) Plot a histogram of Credit_Score with a Gaussian curve.
 
+<img width="717" height="470" alt="Histogarm of credit score" src="https://github.com/user-attachments/assets/da52cb07-221c-4471-989d-179ac1b3ede4" />
+
 ```python
 plt.figure(figsize=(8,5))
 
@@ -285,6 +287,8 @@ print("Kurtosis =", loan_kurtosis)
 ---
 
 #### (c) Draw a Q-Q plot for income .
+
+<img width="600" height="455" alt="Q-Q plot of income" src="https://github.com/user-attachments/assets/d2bf4a7f-2ffb-4988-a062-d3f318edeace" />
 
 ```python
 stats.probplot(df['Income'], dist="norm", plot=plt)
